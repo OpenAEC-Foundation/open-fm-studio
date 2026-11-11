@@ -1,0 +1,9 @@
+.claude/
+.superpowers/
+node_modules/
+__pycache__/
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+dist/
